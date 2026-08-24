@@ -1,0 +1,12 @@
+{
+    "name": "Ocean",
+    "author": "OpenWebRX+ devs",
+    "map": [
+        "#000000",
+        "#000965",
+        "#00E0FF",
+        "#2EFF00",
+        "#FFEC00",
+        "#FF0000"
+    ]
+}

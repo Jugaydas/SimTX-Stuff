@@ -1,0 +1,11 @@
+{
+    "name": "OpenWebRX",
+    "author": "openwebrx.de",
+    "map": [
+       "#FFFF00",
+       "#FFFF50",
+       "#FF9100",
+       "#FF5010",
+       "#FF0000"
+    ]
+}
